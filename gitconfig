@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = m.hasselberg@posteo.de
+	name = Marie Hasselberg
